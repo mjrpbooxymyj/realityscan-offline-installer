@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-3D+Scanning-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Photogrammetry-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 RealityScan Free Installer** — RealityScan is a free photogrammetry app from Epic Games that converts smartphone photos into high-quality 3D models. Works without internet access, no account required. Full offline installation.
+**💻 RealityScan Free Installer** — RealityScan is a free mobile photogrammetry application by Epic Games that creates 3D models from photographs. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About RealityScan
 
-RealityScan is a free photogrammetry app from Epic Games that converts smartphone photos into high-quality 3D models. It guides you through capturing the right photos and automatically processes them to generate textured meshes uploadable to Sketchfab or exportable to Unreal Engine.
+RealityScan is a free mobile photogrammetry application by Epic Games that creates 3D models from photographs. Take photos of an object from multiple angles with your iPhone or Android device, and RealityScan processes them into a detailed 3D model. Export models to Sketchfab and use them in Unreal Engine projects. RealityScan democratizes photogrammetry for indie developers and hobbyists.
 
 ---
 
 ## ❌ Problem: RealityScan is hard to access
 
-- **Mobile App Primary** — Desktop version primarily for managing and processing scans
-- **Account Required** — Epic Games account needed for cloud processing
-- **Cloud Dependency** — 3D reconstruction happens in the cloud; no offline processing
-- **Photo Requirements** — Poor lighting or insufficient photos produce low-quality models
+- **Mobile Only** — Capture requires iOS or Android device
+- **Cloud Processing** — 3D reconstruction processed in cloud; internet required
+- **Model Complexity Limits** — Consumer photogrammetry less detailed than professional scanning
+- **Epic Account Required** — Sign-in with Epic Games account required
 
 ---
 
@@ -121,7 +121,7 @@ RealityScan is a free photogrammetry app from Epic Games that converts smartphon
 
 ---
 
-**RealityScan Free Installer** — RealityScan is a free photogrammetry app from Epic Games that converts smartphone photos into high-quality 3D models. Install without internet connection today!
+**RealityScan Free Installer** — RealityScan is a free mobile photogrammetry application by Epic Games that creates 3D models from photographs. Install without internet connection today!
 
 <div align="center">
 
